@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://flintvista.com/sitemap.xml
